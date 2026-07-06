@@ -42,3 +42,12 @@ The lab was designed to simulate a small enterprise network using Windows Server
 - Practiced basic digital forensics with Autopsy and Volatility
 - Simulated networking concepts using Cisco Packet Tracer
 - Troubleshot operating system, registry, and network issues
+
+## Screenshots
+
+### Proxmox Virtual Machines
+
+<img width="1477" height="1117" alt="Screenshot 2026-07-06 040711" src="https://github.com/user-attachments/assets/9869ad28-cb61-4ef6-a6e2-adce4e5aa3bb" />
+
+## Description: 
+The Proxmox VE host running multiple virtual machines used in the homelab, including Windows Server 2022, Windows 10, and Kali Linux.
