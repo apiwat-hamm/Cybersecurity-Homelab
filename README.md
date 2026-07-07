@@ -95,8 +95,25 @@ Configured Active Directory Domain Services for the `ajlab.local` domain. Create
 
 <img width="751" height="369" alt="Screenshot 2026-07-07 020256" src="https://github.com/user-attachments/assets/952acf9a-3cb4-411d-980e-06ffdee04520" />
 </p>
+
 **Description:** 
 Configured DNS on the domain controller to provide name resolution for the `ajlab.local` Active Directory domain. Created and verified DNS records to allow domain-joined clients to locate network resources and services.
+
+## DHCP Configuration
+
+<p align="center">
+
+<img width="800" height="450" alt="Screenshot 2026-07-07 025656" src="https://github.com/user-attachments/assets/02c93602-d018-40b8-98f9-d906e75d01a4" />
+
+<img width="874" height="496" alt="Screenshot 2026-07-07 025731" src="https://github.com/user-attachments/assets/303e9c5c-bc5c-4351-b4ff-89c548771d2e" />
+
+<img width="791" height="418" alt="Screenshot 2026-07-07 025808" src="https://github.com/user-attachments/assets/43bfe7d1-934a-4478-9c6d-b7c73e725c8b" />
+
+</p>
+
+**Description:**
+Configured a DHCP scope to automatically assign IP addresses and network settings to client devices on the 10.10.10.0/24 lab network.
+
 
 
 
