@@ -89,5 +89,14 @@ Configured virtual bridges to separate the home network from the isolated lab ne
 **Description:**
 Configured Active Directory Domain Services for the `ajlab.local` domain. Created users and groups to simulate a small enterprise environment and centralize authentication and account management.
 
+## DNS Configuration
+
+<p align="center">
+
+<img width="751" height="369" alt="Screenshot 2026-07-07 020256" src="https://github.com/user-attachments/assets/952acf9a-3cb4-411d-980e-06ffdee04520" />
+</p>
+**Description:** 
+Configured DNS on the domain controller to provide name resolution for the `ajlab.local` Active Directory domain. Created and verified DNS records to allow domain-joined clients to locate network resources and services.
+
 
 
