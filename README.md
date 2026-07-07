@@ -114,6 +114,24 @@ Configured DNS on the domain controller to provide name resolution for the `ajla
 **Description:**
 Configured a DHCP scope to automatically assign IP addresses and network settings to client devices on the 10.10.10.0/24 lab network.
 
+## Network Reconnaissance
+
+### nmap -A 10.10.10.10
+ 
+<p align="center">
+
+<img width="725" height="368" alt="Screenshot 2026-07-07 032444" src="https://github.com/user-attachments/assets/7dcaf82a-e81f-4f86-aaba-ecbc1a168067" />
+
+</p>
+
+### nmap -sV 10.10.10.10
+
+<p align="center">
+
+<img width="700" height="250" alt="Screenshot 2026-07-07 033456" src="https://github.com/user-attachments/assets/f613d599-c937-432a-81e2-299fc361df39" />
+
+</p>
 
 
-
+**Description:**
+Performed an Nmap service and operating system detection scan against the Windows Server 2022 domain controller. The scan identified active services, including DNS, Kerberos, LDAP, SMB, and RPC, and successfully detected the target as a Microsoft Windows Server 2022 system.
