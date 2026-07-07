@@ -135,3 +135,17 @@ Configured a DHCP scope to automatically assign IP addresses and network setting
 
 **Description:**
 Performed an Nmap service and operating system detection scan against the Windows Server 2022 domain controller. The scan identified active services, including DNS, Kerberos, LDAP, SMB, and RPC, and successfully detected the target as a Microsoft Windows Server 2022 system.
+
+## Packet Analysis
+### Filter: icmp
+
+<p align="center">
+
+<img width="1339" height="796" alt="Screenshot 2026-07-07 034418" src="https://github.com/user-attachments/assets/b8cf5983-dc07-4802-9ae8-d880ace43dc3" />
+
+</p>
+
+**Description:**
+Captured and analyzed ICMP traffic between the Kali Linux virtual machine (`10.10.10.30`) and the Windows Server 2022 domain controller (`10.10.10.10`) using Wireshark. The capture verifies successful network connectivity by displaying ICMP Echo Request and Echo Reply packets exchanged between the two hosts.
+
+
