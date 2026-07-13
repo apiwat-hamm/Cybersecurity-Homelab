@@ -75,6 +75,14 @@ The Proxmox VE host running multiple virtual machines used in the homelab, inclu
 **Description:** 
 Configured virtual bridges to separate the home network from the isolated lab network. This setup allows communication between virtual machines while keeping the lab environment isolated from the production network.
 
+## Network Topology
+
+<p align="center">
+
+<img width="507" height="554" alt="Screenshot 2026-07-12 233637" src="https://github.com/user-attachments/assets/de4742e6-19c1-4527-8e08-d5548d3ed21f" />
+
+</p>
+
 ## Active Directory
 
 <p align="center">
